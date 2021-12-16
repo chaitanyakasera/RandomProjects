@@ -24,5 +24,5 @@ step 4 --> commit using -->  git commit -a
 
 step 5 --> now to make it a remote repo create a new repo in github then copy the http link of the repo then create a key and use that key as a password for the push 
 
-step 6 --> git remote -m 
+step 6 --> git remote -m  
 
